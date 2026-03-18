@@ -1,7 +1,8 @@
 {
   "name": "Pixless Cam",
   "short_name": "PIXLESS",
-  "start_url": "/pixless-cam/",
+  "start_url": "/pixless-cam/index.html",
+  "scope": "/pixless-cam/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#0a0a0f",
