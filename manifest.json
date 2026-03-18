@@ -1,0 +1,21 @@
+{
+  "name": "Pixless Cam",
+  "short_name": "PIXLESS",
+  "start_url": "/pixless-cam/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a0a0f",
+  "theme_color": "#00ff88",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/0a0a0f/00ff88?text=PX",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/0a0a0f/00ff88?text=PX",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
